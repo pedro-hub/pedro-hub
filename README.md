@@ -1,6 +1,6 @@
 ## OLa ,eu sou o Pedro e Bem Vindo ao meu Perfil 👋 !! 
 - 🔭 Hoje eu sou programador Back-end
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 - 🌱 Eu estou terminando a faculdade em Analise e desenvolvimento de sistemas
 - 🤖 aqui abaixo algumas tecnologias que tenho me aprofundado nesse meio tempo
 
