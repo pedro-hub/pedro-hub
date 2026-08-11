@@ -24,6 +24,5 @@
 </div>
 
 <a href="https://github-stats-extended.vercel.app/api?username=pedro-hub"><img src="https://github-stats-extended.vercel.app/api?username=pedro-hub&theme=dark&show_icons=true"></a>
-<img src="https://github-stats-extended.vercel.app/api?username=pedro-hub&show_icons=true&count_private=true" /> <img src="https://github-stats-extended.vercel/api/top-langs?username=pedro-hub&layout=compact&theme=algolia&count_private=true"/>
 </div>
 
