@@ -23,5 +23,6 @@
   
 </div>
 
-
+<a href="https://github-stats-extended.vercel.app/api?username=pedro-hub"><img src="https://github-stats-extended.vercel.app/api?username=pedro-hub"></a>
+</div>
 
