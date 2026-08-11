@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Pedro 👋
 
-<!--
-**pedro-hub/pedro-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- Hoje eu atuo como desenvolvedor back-end.
+- Sou universitário da faculdade Estácio EAD.
+- Tenho 3 anos de experiência como desenvolvedor web para o ramo bancário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimento técnico
+
+Com base nos meus projetos (públicos e privados), tenho experiência com:
+
+- **Back-end:** Java, C#, ASP.NET Core MVC, Entity Framework Core, APIs e modelagem de dados.
+- **Front-end:** React, React Native, Next.js e TypeScript.
+- **Banco de dados:** SQL Server e PostgreSQL.
+- **Outras tecnologias e práticas:** Maven, Tailwind CSS, Radix UI, SWR e desenvolvimento orientado a objetos (POO).
+
+## Repositórios de referência
+
+- **Mercado-Da-Economia:** Next.js, TypeScript, PostgreSQL (Neon), Tailwind CSS.
+- **ProdutosFiap:** Java, POO, Swing e estrutura por camadas.
+- **MatriculadosModel:** ASP.NET Core MVC, Entity Framework Core e SQL Server.
+- **Modulo01:** React Native com Expo.
+- **Os-Guardioes-de-Eldoria:** Java e orientação a objetos.
