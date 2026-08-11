@@ -1,9 +1,11 @@
-## OLa Bem Vindo ao meu Perfil 👋 !! ,eu sou o Pedro ,Sou Desenvolvedor Web FullStack
-
+## OLa ,eu sou o Pedro e Bem Vindo ao meu Perfil 👋 !! 
+- 🔭 Hoje eu sou programador Back-end
+- 😄 Pronouns: Ele/Dele
+- 🌱 Eu estou terminando a faculdade em Analise e desenvolvimento de sistemas
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +24,5 @@
   
 </div>
 
-- 🔭 Hoje eu sou programador Back-end
-- 🌱 Eu estou terminando a faculdade em Analise e desenvolvimento de sistemas
-- 😄 Pronouns: Ele/Dele
+
 
