@@ -1,5 +1,5 @@
 ## OLa ,eu sou o Pedro e seja Bem Vindo ao meu Perfil 👋 !! 
-- 🔭 Hoje eu sou programador Back-end
+- 🔭 Sou programador Full-Stack
 - 😄 Pronomes: Ele/Dele
 - 🌱 tenho ensino tecnico em informatica profissionalizante e formado em Analise e desenvolvimento de sistemas
 - 🤖 aqui abaixo algumas tecnologias que tenho me aprofundado nesse meio tempo e minhas redes de contato
